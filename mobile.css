@@ -1,0 +1,90 @@
+* { margin: 0px; padding: 0px; box-sizing: border-box; border: 0px; outline: 0px; font-family: "Titillium Web", sans-serif; }
+.container { width: 90%; margin: 0px auto; }
+.row { width: 100%; float: left; }
+.col-1 { width: 8.33%; float: left; }
+.col-2 { width: 16.66%; float: left; }
+.col-3 { width: 25%; float: left; }
+.col-4 { width: 33.33%; float: left; }
+.col-5 { width: 41.66%; float: left; }
+.col-6 { width: 50%; float: left; }
+.col-7 { width: 58.33%; float: left; }
+.col-8 { width: 66.66%; float: left; }
+.col-9 { width: 75%; float: left; }
+.col-10 { width: 83.33%; float: left; }
+.col-11 { width: 91.66%; float: left; }
+.col-12 { width: 100%; float: left; }
+#first { background: url("img/Vibo---PSD-App-Template-1.gif") center center / cover no-repeat; }
+.header-home-part { margin: 30px 0px; }
+.logo { margin-top: -8px; padding: 0px 170px; }
+.logo-link { padding: 0px 175px; }
+.logo-link ul { margin: 0px; padding: 0px 10px; }
+.logo-link li { display: inline; padding: 0px 20px; list-style: none; margin: 0px; border: 2px solid aqua; border-radius: 8px; background-color: aqua; }
+.logo-link ul :hover { background-color: rgb(82, 28, 28); transition: all 0.3s ease-in-out 0s; color: rgb(224, 36, 36); }
+.logo-link a { color: white; font-weight: 700; text-decoration: none; text-transform: capitalize; }
+.header-last-part { text-align: center; margin-top: 70px; color: white; }
+.header-last-part h2 { margin-bottom: 25px; }
+.header-last-part p { margin-bottom: 25px; }
+.header-last-part a { }
+.header-last-part button { color: white; border: 4px solid rgb(247, 244, 244); padding: 11px 40px; background: rgb(0, 188, 212); border-radius: 12px; margin: 0px 13px; }
+.header-last-part button:hover { background-color: white; color: black; transition: all 0.5s ease-in-out 0s; }
+.lock { margin-top: 70px; }
+#second { background: url("img/Vibo---PSD-App-Template-2.gif") 0% 0% / cover no-repeat; margin-top: -230px; }
+.mobile-pic-part { position: relative; top: 60px; left: 140px; }
+.mobile-pic-part img { position: relative; top: 210px; left: 20px; }
+.mobile-right-part { margin: 170px 0px; }
+.first { margin: 40px 0px; padding: 20px 172px; }
+.first-img { border: 2px solid black; padding: 80px 15px; margin: 0px; text-align: center; }
+.one { position: relative; right: 90px; bottom: 30px; }
+.two { position: relative; top: 65px; }
+.three { position: relative; bottom: 92px; right: 190px; }
+.four { position: relative; right: 85px; }
+.first h4 { }
+.first p { }
+#third { background-color: white; margin: 100px 0px; }
+.ready-written-part { text-align: right; margin: 0px; padding: 15px 70px; }
+.ready-written-part h2 { text-transform: capitalize; margin-bottom: 40px; padding: 0px; }
+.ready-written-part p { font-weight: 100; }
+.ready-written-part a { }
+.ready-written-part button { color: white; border: 4px solid rgb(247, 244, 244); padding: 14px 50px; background: rgb(0, 188, 212); border-radius: 12px; margin: 30px 0px 0px; }
+.ready-written-part button:hover { background-color: white; color: black; transition: all 0.5s ease-in-out 0s; }
+.ready-img-part :hover { background-color: rgb(0, 188, 212); border-radius: 8px; }
+.pic { margin: 7px 0px; padding: 10px 0px; }
+.pic :hover { background-color: rgb(0, 188, 212); transition: all 0.3s ease-in-out 0s; color: white; }
+.pic img { width: 4%; margin: 15px; }
+.pic h5 { margin: 15px 0px; font-weight: 500; font-size: 18px; text-transform: capitalize; }
+.pic p { font-weight: 100; color: rgb(165, 145, 145); }
+#fourth { background-color: rgb(250, 250, 252); margin: 0px; padding: 120px 25px; }
+.need-img-part { }
+.need-img-part img { }
+.need-written-part { }
+.need-written-part h1 { }
+.need-written-part img { width: 3%; float: left; }
+.need-written-part p { margin-top: 60px; color: rgb(143, 138, 138); }
+.need-written-part h5 { width: 96%; margin: 0px 40px; }
+.tik { margin: 15px 1px; }
+#fifth { background: url("img/Vibo---PSD-App-Template-1.gif") 0% 0% / cover no-repeat; padding: 100px 190px; }
+.available-img-part { }
+.available-written-part { padding: 170px 0px; }
+.available-written-part h1 { text-transform: capitalize; }
+.available-written-part p { color: white; padding: 50px 0px; }
+.available-written-part img { padding: 0px 30px; }
+.available-written-part a { }
+.button { position: relative; top: 156px; }
+.button button { text-transform: capitalize; border: 2px solid red; padding: 26px 102px; margin: 23px 300px; background-color: rgb(249, 81, 120); border-radius: 7px; font-size: 22px; color: white; font-weight: 600; }
+#sixth {padding: 70px 200px;}
+.list-part { padding: 0px 107px; }
+.list { padding: 33px 50px; }
+.list h2 { text-transform: capitalize; font-weight: 400; padding: 29px 0px; }
+.list h5 { text-transform: capitalize; font-weight: 100; padding: 4px 0px; }
+.form-part { text-align: center; }
+.form-part h1 { text-transform: capitalize; padding: 25px 0px; }
+.form-part p { font-weight: 100; }
+.form { }
+.form input { border: 3px solid; padding: 16px 230px; margin: 60px 0px; border-radius: 7px; }
+.form button { color: white; background-color: rgb(51, 210, 253); border: 2px solid; padding: 17px 55px; border-radius: 7px; }
+.form :hover { background-color: white; color: rgb(0, 0, 0); transition: all 0.05s ease-in-out 0s; }
+#last { }
+.finish { background-color: rgb(35, 49, 72); color: white; }
+.finish ul { padding: 23px 120px 23px 153px; }
+.finish li { display: inline; padding: 25px; }
+.finish i { }
